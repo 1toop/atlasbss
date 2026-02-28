@@ -1,4 +1,4 @@
-# Atlas BSS
-Atlas is a new Bee Swarm Simulator script currently being developed with safety and performance as its focus. Atlas supports both tween and pathfinding and fires no remotes.
+# Ratlas BSS
+Ratlas is a new Pepsi Swarms fork for the Bee Swarm Simulator script, currently being developed with danger as its focus. Ratlas uses TP instead of pathfinding and fires multiple unsafe remotes.
 
-![Atlas BSS](https://chris12089.github.io/atlas/thumbnail.png)
+![Ratlas BSS](https://chris12089.github.io/atlas/thumbnail.png)
