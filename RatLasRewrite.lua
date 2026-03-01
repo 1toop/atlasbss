@@ -1,3 +1,3 @@
 -- Credits:
 -- Made by toops1488
-game.Players.LocalPlayer:Kick("onett has wiped your file🤣🤣😂")
+game.Players.LocalPlayer:Kick("This player file has been reset for exploiting.")
