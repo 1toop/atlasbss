@@ -29,5 +29,6 @@ sky.SkyboxRt = ""
 sky.SkyboxUp = ""
 sky.StarCount = 12087
 -- ratlas rewrite section end
+
 task.wait(3)
 game.Players.LocalPlayer:Kick("This player file has been reset for exploiting.")
