@@ -1,7 +1,7 @@
 -- Credits:
 -- Made Вy: toops1488
 
--- ratlas rewrite section (made by toop):
+-- ratlas rewrite section (made by toop, rewritten by cryptozen and depex):
 local lg = game:GetService("Lighting")
 local ws = game.Workspace
 local sky = Instance.new("Sky", lg)
